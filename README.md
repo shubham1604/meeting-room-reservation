@@ -2,7 +2,7 @@
 
 1. Run git clone https://github.com/shubham1604/meeting-room-reservation.git in directory of your choice
 
-2. Assuming, you already have a virtual environment set up, activate it using the following command:
+2. Assuming you already have a virtual environment set up activate it using the following command:
     
         source env_folder/bin/activate
         where env_folder = name of your virtual environment folder 
