@@ -13,7 +13,8 @@
 
 5. For convinience a sample SQLITE database file has been included in the project which contains some test data.  
 
-6. Run python manage.py runserver to start the development server. 
+6. Run the following command to start the development server. 
+        python manage.py runserver
 
 7. Hit http://localhost:8000/ in your browser to list all rooms.
 
