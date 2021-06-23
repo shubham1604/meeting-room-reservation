@@ -34,7 +34,7 @@
 
 12. The sample database here is only for your convenience. Feel free to create admin users of your own by running the following command and entring valid information.
 
-      python manage.py createsuperuser
+         python manage.py createsuperuser
 
           
           
