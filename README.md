@@ -4,16 +4,21 @@
 
 2. Assuming, you already have a virtual environment set up, activate it using the following command:
     
-    source env_folder/bin/activate
-    where env_folder = name of your virtual environment folder 
+        source env_folder/bin/activate
+        where env_folder = name of your virtual environment folder 
 
-3. Navigate to the project directory using cd /meeting-room-reservation/
+3. Navigate to the project directory using 
 
-4. Run pip install -r requirements.txt to install project dependancies
+        cd /meeting-room-reservation/
+
+4. Run the following command to install project dependancies
+
+        pip install -r requirements.txt
 
 5. For convinience a sample SQLITE database file has been included in the project which contains some test data.  
 
 6. Run the following command to start the development server. 
+        
         python manage.py runserver
 
 7. Hit http://localhost:8000/ in your browser to list all rooms.
