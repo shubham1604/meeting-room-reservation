@@ -1,6 +1,8 @@
 # meeting-room-reservation
 
-1. Run git clone https://github.com/shubham1604/meeting-room-reservation.git in directory of your choice
+1. Run the following in directory of your choice
+
+        git clone https://github.com/shubham1604/meeting-room-reservation.git
 
 2. Assuming you already have a virtual environment set up activate it using the following command:
     
