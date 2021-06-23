@@ -23,6 +23,7 @@
 9. Hit http://localhost:8000/reservations/update/1/ to update the reservation with the reservation id 1. Current preset reservation ids are (2,3,4,5,7 etc).
 
 10. Test admin user credentails :
+
           username : testuser1
           password : testpassword
           
